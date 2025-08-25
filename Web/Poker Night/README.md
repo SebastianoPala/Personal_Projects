@@ -19,3 +19,6 @@ User Profile Customization: The platform allows the user to upload and display a
 Technical Implementation:
 
 The application was built utilizing XAMPP as the local development environment. MySQL was employed as the relational database management system for handling user data, game states, and room information.
+
+
+The _PokerNight.rar contains the entire project.
