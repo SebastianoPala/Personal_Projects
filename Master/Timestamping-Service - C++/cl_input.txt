@@ -1,0 +1,5 @@
+seba
+sebastiano
+sign
+p.txt
+exit
